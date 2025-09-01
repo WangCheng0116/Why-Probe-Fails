@@ -20,10 +20,10 @@ Our study reveals that probing classifiers:
 ## ⚙️ Reproduction  
 We provide scripts to reproduce all key experiments:  
 
-1. **Dataset preparation** – Download benign and malicious datasets.
-3. **Hidden state extraction** – Collect internal representations from target LLMs.  
-4. **Classifier training** – Train SVMs and Naive Bayes classifiers on the extracted representations.  
-5. **Evaluation** – Benchmark across in-distribution, out-of-distribution, cleaned, and paraphrased datasets.  
+1. **Dataset preparation** – We have provided the dataset in `data` folder.
+2. **Hidden state extraction** – Collect internal representations from target LLMs using `get_hidden_states.py`
+3. **Classification** – Train SVMs classifiers on the extracted representations and evaluate the results using `classify.py`
+ 
 
 ---
 
