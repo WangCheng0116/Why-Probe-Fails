@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Model–Task Alignment Drives Distinct RL Outcomes</h1>
+    <h1>False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize</h1>
 
 
 [![arxiv](https://img.shields.io/badge/Arxiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
