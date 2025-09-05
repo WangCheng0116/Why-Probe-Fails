@@ -2,8 +2,9 @@
     <h1>False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize</h1>
 
 
-[![arxiv](https://img.shields.io/badge/Arxiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+[![arxiv](https://img.shields.io/badge/Arxiv-2509.03888-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2509.03888) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 </div>
+
 
 
 ## 📝 Overview  
@@ -31,7 +32,13 @@ We provide scripts to reproduce all key experiments:
 If you find this work useful, please cite:  
 
 ```bibtex
-@article{wang2025falsesense,
-
+@misc{wang2025falsesensesecurityprobingbased,
+      title={False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize}, 
+      author={Cheng Wang and Zeming Wei and Qin Liu and Muhao Chen},
+      year={2025},
+      eprint={2509.03888},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.03888}, 
 }
 ```
